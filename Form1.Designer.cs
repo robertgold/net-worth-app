@@ -317,9 +317,9 @@
             // 
             this.buttonClose.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.buttonClose.Font = new System.Drawing.Font("Georgia", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonClose.Location = new System.Drawing.Point(170, 511);
+            this.buttonClose.Location = new System.Drawing.Point(170, 485);
             this.buttonClose.Name = "buttonClose";
-            this.buttonClose.Size = new System.Drawing.Size(84, 32);
+            this.buttonClose.Size = new System.Drawing.Size(122, 58);
             this.buttonClose.TabIndex = 20;
             this.buttonClose.Text = "Close";
             this.buttonClose.UseVisualStyleBackColor = true;
